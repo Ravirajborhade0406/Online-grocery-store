@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+}
+
+.mat-footer-row>th {
+    text-align: unset;
+}
+
+.mat-footer-row>th:first-child {
+    padding-left: 24px;
+}
+
+.match {
+    background-color: yellow;
+}
