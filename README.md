@@ -1,1 +1,19 @@
 # Online-grocery-store
+# screenshots
+
+![Screenshot (151)](https://user-images.githubusercontent.com/102131455/173402164-2ac4b9f2-1e68-448d-8e0f-c412b7bf8019.png)
+![Screenshot (152)](https://user-images.githubusercontent.com/102131455/173402168-b6b78709-398d-4121-b0c8-0afe453fec3e.png)
+![Screenshot (153)](https://user-images.githubusercontent.com/102131455/173402181-5ec15c1d-862e-4a5d-a422-63df19eceecd.png)
+![Screenshot (154)](https://user-images.githubusercontent.com/102131455/173402189-d32c8ae1-9aaf-4c39-bfa1-778bbb5c7983.png)
+![Screenshot (155)](https://user-images.githubusercontent.com/102131455/173402191-8b1c85fa-5b0a-4efd-b5a2-b58721683878.png)
+![Screenshot (156)](https://user-images.githubusercontent.com/102131455/173402199-b1e666f9-cca2-484e-83d3-98eaa64e4e3c.png)
+![Screenshot (157)](https://user-images.githubusercontent.com/102131455/173402205-f5beec4a-3ca1-4660-8de1-ffc12c83d895.png)
+![Screenshot (158)](https://user-images.githubusercontent.com/102131455/173402215-57fcbb58-e7f8-4400-8dcc-0e9d96256108.png)
+![Screenshot (159)](https://user-images.githubusercontent.com/102131455/173402220-86a38000-c03d-4ce7-8341-80951ecce6c2.png)
+![Screenshot (160)](https://user-images.githubusercontent.com/102131455/173402227-d5fd400c-55f0-4165-8eac-3a87142826fb.png)
+![Screenshot (161)](https://user-images.githubusercontent.com/102131455/173402232-40f2fe7f-b2b4-452b-b0fc-0f053615c1c9.png)
+![Screenshot (162)](https://user-images.githubusercontent.com/102131455/173402240-c2c2567c-8a37-4f5c-96bb-a6a77b32e7d2.png)
+![Screenshot (163)](https://user-images.githubusercontent.com/102131455/173402246-5448b15c-d34d-45d3-93fd-a5d5181237fe.png)
+![Screenshot (164)](https://user-images.githubusercontent.com/102131455/173402251-096afec7-a814-46bd-9ebf-3e892095950f.png)
+![Screenshot (165)](https://user-images.githubusercontent.com/102131455/173402256-50bc29c0-98ee-4df4-a641-85de45184adb.png)
+![Screenshot (166)](https://user-images.githubusercontent.com/102131455/173402261-37e8bfd8-0aba-4fb8-8a58-82ff99443862.png)
